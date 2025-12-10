@@ -39,6 +39,8 @@ Data analysis and visualization
 
 **Link**
 
+https://github.com/seemaacharya/Market-Research-Competititor-Analysis/blob/main/Evanki-Business_Plan%20ppt.pptx
+
 **Conclusion**
 
 This project demonstrates my ability to perform market research, analyze competitors, segment customers, and provide strategic insights — key skills for Business Analyst and Market Research Analyst roles.
